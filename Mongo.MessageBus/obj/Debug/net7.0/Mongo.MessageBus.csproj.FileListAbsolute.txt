@@ -1,0 +1,12 @@
+C:\Users\sonug\Downloads\Mango\Mango\Mongo.MessageBus\bin\Debug\net7.0\Mongo.MessageBus.deps.json
+C:\Users\sonug\Downloads\Mango\Mango\Mongo.MessageBus\bin\Debug\net7.0\Mongo.MessageBus.dll
+C:\Users\sonug\Downloads\Mango\Mango\Mongo.MessageBus\bin\Debug\net7.0\Mongo.MessageBus.pdb
+C:\Users\sonug\Downloads\Mango\Mango\Mongo.MessageBus\obj\Debug\net7.0\Mongo.MessageBus.csproj.AssemblyReference.cache
+C:\Users\sonug\Downloads\Mango\Mango\Mongo.MessageBus\obj\Debug\net7.0\Mongo.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonug\Downloads\Mango\Mango\Mongo.MessageBus\obj\Debug\net7.0\Mongo.MessageBus.AssemblyInfoInputs.cache
+C:\Users\sonug\Downloads\Mango\Mango\Mongo.MessageBus\obj\Debug\net7.0\Mongo.MessageBus.AssemblyInfo.cs
+C:\Users\sonug\Downloads\Mango\Mango\Mongo.MessageBus\obj\Debug\net7.0\Mongo.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\sonug\Downloads\Mango\Mango\Mongo.MessageBus\obj\Debug\net7.0\Mongo.MessageBus.dll
+C:\Users\sonug\Downloads\Mango\Mango\Mongo.MessageBus\obj\Debug\net7.0\refint\Mongo.MessageBus.dll
+C:\Users\sonug\Downloads\Mango\Mango\Mongo.MessageBus\obj\Debug\net7.0\Mongo.MessageBus.pdb
+C:\Users\sonug\Downloads\Mango\Mango\Mongo.MessageBus\obj\Debug\net7.0\ref\Mongo.MessageBus.dll
